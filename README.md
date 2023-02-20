@@ -12,7 +12,7 @@ The main challenge with arbitrage is that by the time you sell an asset, its pri
 
 
 # How it works
-Alfred monitors DEXs for opportunities, and when he finds it, he borrows capital to conclude the arbitrage transaction.
+Bot monitors DEXs for opportunities, and when he finds it, he borrows capital to conclude the arbitrage transaction.
 
 ## Decentralized Exchanges
 The most popular DEX architectures use the concept of liquidity pools rather than orderbooks and are called Automated Market Makers.
@@ -20,7 +20,7 @@ The most popular DEX architectures use the concept of liquidity pools rather tha
 Other DEXes, in particular those using the 0x protocol use a classic orderbook and rely on makers and takers for determining an asset’s price;
 
 ## Flash Loan
-Flash Alfred can take advantage of flash loans in order to do arbitrage trading using only borrowed funds!
+Bot can take advantage of flash loans in order to do arbitrage trading using only borrowed funds!
 
 Not only you are not at risk of losing all of your capital if prices are very volatile, but also because as mentioned before, the money isn’t even yours; 
 
