@@ -35,9 +35,9 @@ It does not require any kind of prediction algorithm or stop-loss strategy, but 
 
 
 # Features
-- Smart contract written in solidity code published in the Ethereum blockchain main network;
-- Connected with UniSwap and SushiSwap, two of the principal decentralized exchanges in DeFi;
-- API connected with AAVE loan network;
+- Smart contract written in solidity code published in the Ethereum blockchain main network
+- Connected with UniSwap and SushiSwap, two of the principal decentralized exchanges in DeFi
+- API connected with AAVE loan network
 
 
 
